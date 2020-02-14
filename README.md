@@ -1,1 +1,2 @@
-# trex-for-Derrik
+# trex
+Chrome's trex game created using p5.play
